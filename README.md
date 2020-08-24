@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Rémi alias Minauras
 
-<!--
-**Minauras/Minauras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an embedded software student from EPFL Switzerland (Ecole Polytechnique Fédérale de Lausanne).
 
-Here are some ideas to get you started:
+I am looking for job opportunities in the field of embedded software
+    -> [my CV](CV_clerc.pdf)
+    -> [linkedin](https://www.linkedin.com/in/remiclerc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passions:
+- 🎸🎹 Music
+- 💻 Programming
+- 🛠⚡ DIY electronics
+- 📚 Teaching
+- 🕺💃 Theater & Improv
+
+Reach me at remi.clerc@epfl.ch
