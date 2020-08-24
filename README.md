@@ -3,8 +3,8 @@
 I am an embedded software student from EPFL Switzerland (Ecole Polytechnique Fédérale de Lausanne).
 
 I am looking for job opportunities in the field of embedded software
-    -> [my CV](CV_clerc.pdf)
-    -> [linkedin](https://www.linkedin.com/in/remiclerc/)
+-> [my CV](CV_clerc.pdf)
+-> [linkedin](https://www.linkedin.com/in/remiclerc/)
 
 My passions:
 - 🎸🎹 Music
