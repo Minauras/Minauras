@@ -14,4 +14,4 @@ My passions:
 - 📚 Teaching
 - 🕺💃 Theater & Improv
 
-Reach me at remi.clerc@epfl.ch
+Reach me at contact.rclerc@gmail.com
