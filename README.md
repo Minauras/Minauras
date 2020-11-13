@@ -2,7 +2,7 @@
 
 I am a graduate embedded software student from EPFL Switzerland (Ecole Polytechnique Fédérale de Lausanne).
 
-I currently work at [Idiap Rearch Institute](https://www.idiap.ch/fr) for my Master's project.
+I currently work at [Idiap Research Institute](https://www.idiap.ch/fr) for my Master's project.
 
 I am looking for job opportunities in the field of embedded software
 -> [my CV](https://github.com/Minauras/Minauras/blob/master/CV_clerc.pdf)
