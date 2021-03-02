@@ -2,7 +2,7 @@
 
 I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems.
 
-I am currently conducting a research internship in computer vision at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/computational-bioimaging).
+I am currently conducting a research internship in embedded computer vision at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/computational-bioimaging).
 
 ### I am looking for job opportunities in the field of embedded software
 * [my CV](https://github.com/Minauras/Minauras/blob/master/CV_clerc.pdf)
