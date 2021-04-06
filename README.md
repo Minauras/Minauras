@@ -1,10 +1,10 @@
 ## Hi, I am Rémi alias Minauras (pronouns: they/them)
 
-I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems.
+I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems and Computer Vision.
 
 I am currently conducting a research internship in embedded computer vision at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/computational-bioimaging).
 
-### I am looking for job opportunities in the field of embedded software
+### I am looking for job opportunities in the field of embedded software and computer vision
 * [my CV](https://github.com/Minauras/Minauras/blob/master/CV_clerc.pdf)
 * [linkedin](https://www.linkedin.com/in/remiclerc/)
 
@@ -14,6 +14,8 @@ I am currently conducting a research internship in embedded computer vision at [
    <a href="http://www.youtube.com/watch?feature=player_embedded&v=zEdp13xUdek
 " target="_blank"><img src="http://img.youtube.com/vi/zEdp13xUdek/0.jpg" 
 alt="[Hacking House] Demo day - Connected Bird Nest Presentation Video" width="240" height="180" border="10" /></a>
+
+* The code from my Master's Thesis at [Idiap Research Institute](https://github.com/idiap) entitled [Deep Learning Methods For Digital Holography In An Embedded System](https://github.com/Minauras/deepdefresneling) has been published under the open source BSD-2 License.
 * You can have a look at [my repositories](https://github.com/Minauras?tab=repositories) for academic projects I worked on, or fun projects I did on my own!
 
 ### My passions
