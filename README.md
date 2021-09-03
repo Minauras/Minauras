@@ -2,11 +2,7 @@
 
 I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems and Computer Vision.
 
-I am currently conducting a research internship in embedded computer vision at [Idiap Research Institute](https://www.idiap.ch/en/scientific-research/computational-bioimaging).
-
-### I am looking for job opportunities in the field of embedded software and computer vision
-* [my CV](https://github.com/Minauras/Minauras/blob/master/CV_clerc.pdf)
-* [linkedin](https://www.linkedin.com/in/remiclerc/)
+I am currently employed as an Electronics Engineer at [Oratek](https://oratek.com/).
 
 ### Projects
 * The code from my 2021 Master's Thesis at [Idiap Research Institute](https://github.com/idiap) entitled [Deep Learning Methods For Digital Holography In An Embedded System](https://github.com/Minauras/deepdefresneling) has been published under the open source BSD-2 License.
