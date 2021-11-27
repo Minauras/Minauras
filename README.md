@@ -1,4 +1,4 @@
-## Hi, I am Rémi alias Minauras (pronouns: they/them)
+## Hi, I am Nara alias Minauras (pronouns: they/them)
 
 I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems and Computer Vision.
 
@@ -27,4 +27,4 @@ alt="[Hacking House] Demo day - Connected Bird Nest Presentation Video" width="2
 * English
 
 ### Contact
-Reach me at contact.rclerc@gmail.com
+Reach me at nara.clerc@gmail.com
