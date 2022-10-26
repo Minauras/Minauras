@@ -1,4 +1,4 @@
-## Hi, I am Nara alias Minauras (pronouns: they/them)
+## Hi, I am Nara alias Minauras (pronouns: they/she)
 
 I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems and Computer Vision.
 
