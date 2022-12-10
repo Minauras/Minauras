@@ -4,6 +4,8 @@ I have an MSc in Electrical Engineering from EPFL Switzerland, and I am speciali
 
 I am currently employed as an Embedded Software Engineer at [Oratek](https://oratek.com/), but I am looking for a new position.
 
+You can find my CV [here](./CV_clerc.pdf)!
+
 ### Projects
 * The code from my 2021 Master's Thesis at [Idiap Research Institute](https://github.com/idiap) entitled [Deep Learning Methods For Digital Holography In An Embedded System](https://github.com/Minauras/deepdefresneling) has been published under the open source BSD-2 License.
 * I worked at [Sigfox Paris](https://www.sigfox.com/en) in 2020, where my colleague [Nishant Nidaria](https://www.linkedin.com/in/nishantnidaria/) and I designed the electronics of a Sigfox connected bird nest. The project is called [Noeuf](https://noeuf.ml/) and you can see the demo video [here](http://www.youtube.com/watch?feature=player_embedded&v=zEdp13xUdek):
