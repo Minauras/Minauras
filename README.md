@@ -2,7 +2,7 @@
 
 I have an MSc in Electrical Engineering from EPFL Switzerland, and I am specialized in Embedded Systems and Computer Vision.
 
-I am currently employed as an Embedded Software Engineer at [Oratek](https://oratek.com/), but I am looking for a new position.
+I am currently employed as an Software Engineer at Cisco.
 
 You can find my CV [here](./CV_clerc.pdf)!
 
